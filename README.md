@@ -12,7 +12,7 @@ I'm Maulik Dadhaniya, I'm a software engineer 👨‍💻 who is passionate abou
 -  ⚡ Languages: Java, Kotlin, Dart, Flutter
 
 
-> El Psy Kongroo
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maulikdadhaniya)
 
 
 ---
