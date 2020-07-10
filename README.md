@@ -12,8 +12,6 @@ I'm Maulik Dadhaniya, I'm a software engineer 👨‍💻 who is passionate abou
 -  ⚡ Languages: Java, Kotlin, Dart, Flutter
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maulikdadhaniya)
-
 
 ---
-⭐️ From [KunalRaghav](https://github.com/maulikdadhaniya)
+⭐️ From [Maulik Dadhaniya](https://github.com/maulikdadhaniya)
