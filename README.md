@@ -1,5 +1,5 @@
 # Maulik Dadhaniya 
-[![Twitter Badge](https://img.shields.io/badge/-@maulikdadhania-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maulikdadhania)](https://twitter.com/maulikdadhania) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulikdadhaniya/)](https://www.linkedin.com/in/maulikdadhaniya/)
+[![Twitter Badge](https://img.shields.io/badge/-@maulikdadhania-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maulikdadhania)](https://twitter.com/maulikdadhania) [![Linkedin Badge](https://img.shields.io/badge/-maulikdadhaniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulikdadhaniya/)](https://www.linkedin.com/in/maulikdadhaniya/)
 [![Gmail Badge](https://img.shields.io/badge/-maulik.dadhaniya1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maulik.dadhaniya1995@gmail.com)](mailto:maulik.dadhaniya1995@gmail.com)
 
 ## Hi 👋, 
