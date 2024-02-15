@@ -20,9 +20,5 @@ I'm Maulik Dadhaniya, I'm a software engineer 👨‍💻 who is passionate abou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=maulikdadhaniya&&show_icons=true&title_color=ffffff&icon_color=593d88&text_color=ffffff&bg_color=000000">
-
-
-
 ---
 ⭐️ From [Maulik Dadhaniya](https://github.com/maulikdadhaniya)
