@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-## Hi 👋, 
+Hi, 
 I'm Maulik Dadhaniya, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
 🏄‍♂️. 
 
